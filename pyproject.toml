@@ -1,0 +1,4 @@
+toml
+
+[tool.vercel]
+entrypoint = "verify_engine.py:app"
